@@ -1,0 +1,32 @@
+[
+ {
+ "content": "What is the capital city of France?",
+ "options": {
+ "a": "Paris",
+ "b": "Rome",
+ "c": "Berlin",
+ "d": "New York"
+ },
+ "correctOption": "a"
+ },
+ {
+ "content": "What is the largest planet in our solar system?",
+ "options": {
+ "a": "Mercury",
+ "b": "Venus",
+ "c": "Earth",
+ "d": "Jupiter"
+ },
+ "correctOption": "d"
+ },
+ {
+ "content": "Which scientist developed the theory of relativity?",
+ "options": {
+ "a": "Isaac Newton",
+ "b": "Albert Einstein",
+ "c": "Galileo Galilei",
+ "d": "Nikola Tesla"
+ },
+ "correctOption": "b"
+ }
+]

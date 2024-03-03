@@ -1,0 +1,38 @@
+{
+ "zodiacSigns": [
+ {
+ "name": "Aries",
+ "description": "Aries adalah zodiak pertama dalam astrologi dengan elemen api dan diperintah oleh planet Mars."
+ },
+ {
+ "name": "Taurus",
+ "description": "Taurus adalah zodiak kedua dalam astrologi dengan elemen bumi dan diperintah oleh planet Venus."
+ },
+ {
+ "name": "Gemini",
+ "description": "Gemini adalah zodiak ketiga dalam astrologi dengan elemen udara dan diperintah oleh planet Merkurius."
+ }
+ ],
+ "ras": [
+ {
+ "name": "Manusia",
+ "description": "Ras yang paling dominan di dunia, memiliki beragam penampilan fisik, kebudayaan, dan bahasa."
+ },
+ {
+ "name": "Goblin",
+ "description": "Ras humanoid kecil dengan kulit hijau dan taring tajam. Mereka sering hidup secara tersembunyi dan dikenal sebagai makhluk yang licik dan suka mencuri."
+ },
+ {
+ "name": "Elf",
+ "description": "Ras elegan dengan telinga runcing dan umur panjang. Mereka terampil dalam ilmu sihir dan jagoan dalam memanah."
+ },
+ {
+ "name": "Ork",
+ "description": "Ras yang kuat dan berotot dengan kulit berwarna gelap. Mereka cenderung memiliki kekuatan fisik yang besar dan sering menjadi pejuang yang tangguh."
+ },
+ {
+ "name": "Malaikat",
+ "description": "Ras surgawi yang indah dengan sayap yang mempesona. Mereka biasanya dianggap sebagai makhluk suci yang melambangkan kebenaran dan keadilan."
+ }
+ ]
+}
